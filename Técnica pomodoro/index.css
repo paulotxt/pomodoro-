@@ -1,0 +1,25 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .timer-container {
+    text-align: center;
+  }
+  
+  #timer {
+    font-size: 3em;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    font-size: 1em;
+    margin: 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  
